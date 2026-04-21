@@ -1,0 +1,16 @@
+# Build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Generated folders
+build/
+dist/
+
+# Tooling caches
+.DS_Store
+Thumbs.db
