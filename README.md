@@ -1,4 +1,4 @@
-# unix_labs
+# cpp-unix_labs
 
 Unified repository with C++/Unix labs
 
